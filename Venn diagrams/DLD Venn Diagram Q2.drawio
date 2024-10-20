@@ -22,6 +22,9 @@
         <mxCell id="m2wehKe-zH7GWGQpuzOp-21542" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;C&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="690" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="m2wehKe-zH7GWGQpuzOp-21543" value="Find this boolean function" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
